@@ -1,0 +1,16 @@
+D:\aspnet-core-jwt-authentication-api-master\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\aspnet-core-jwt-authentication-api-master\bin\Debug\netcoreapp2.1\appsettings.json
+D:\aspnet-core-jwt-authentication-api-master\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\aspnet-core-jwt-authentication-api-master\bin\Debug\netcoreapp2.1\WebApi.deps.json
+D:\aspnet-core-jwt-authentication-api-master\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.json
+D:\aspnet-core-jwt-authentication-api-master\bin\Debug\netcoreapp2.1\WebApi.runtimeconfig.dev.json
+D:\aspnet-core-jwt-authentication-api-master\bin\Debug\netcoreapp2.1\WebApi.dll
+D:\aspnet-core-jwt-authentication-api-master\bin\Debug\netcoreapp2.1\WebApi.pdb
+D:\aspnet-core-jwt-authentication-api-master\obj\Debug\netcoreapp2.1\WebApi.csprojAssemblyReference.cache
+D:\aspnet-core-jwt-authentication-api-master\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cache
+D:\aspnet-core-jwt-authentication-api-master\obj\Debug\netcoreapp2.1\WebApi.RazorAssemblyInfo.cs
+D:\aspnet-core-jwt-authentication-api-master\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfoInputs.cache
+D:\aspnet-core-jwt-authentication-api-master\obj\Debug\netcoreapp2.1\WebApi.AssemblyInfo.cs
+D:\aspnet-core-jwt-authentication-api-master\obj\Debug\netcoreapp2.1\WebApi.RazorTargetAssemblyInfo.cache
+D:\aspnet-core-jwt-authentication-api-master\obj\Debug\netcoreapp2.1\WebApi.dll
+D:\aspnet-core-jwt-authentication-api-master\obj\Debug\netcoreapp2.1\WebApi.pdb
